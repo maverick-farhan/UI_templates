@@ -5,4 +5,4 @@ UI design practice in Reactjs
 
 ## Screenshot
 ![Nexaio, First Design in React](NexaioAPP/Nexaio_UI.png)
-<img src="./NexaioAPP/Nexaio_UI.png" alt="App Demo Image" />
+<img src="NexaioAPP/Nexaio_UI.png" alt="App Demo Image" />
