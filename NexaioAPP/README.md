@@ -8,4 +8,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 -
 ## Screenshot
-![Nexaio, First Design in React](NexaioAPP/Nexaio_UI.png)
+![Nexaio, First Design in React](./Nexaio_UI.png)
